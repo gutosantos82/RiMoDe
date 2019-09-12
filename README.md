@@ -1,2 +1,2 @@
-# rimode
-Rhythm Dance Movement Desction - automatic assessment of dance skills using smartphone accelerometer
+# RiMoDe
+Rhythm Dance Movement Detection - automatic assessment of dance skills using smartphone accelerometer
