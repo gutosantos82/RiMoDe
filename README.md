@@ -1,6 +1,16 @@
 # RiMoDe
 Rhythm Dance Movement Detection - automatic assessment of dance skills using smartphone accelerometer
 
+## File description
+xxx - Session ID
+
+xxx_acc.csv - Accelerometer data: timestamp,x,y,z
+
+SongsProfiles.csv - includes the song names, bpm of the song as per Madmon, beats detected by Madmon
+For some songs (Que Seja and No Escurinho), the beats detected are 1/2 of the beats perceived by a dancer, so the BPM values were multiplied by 2.
+
+SessionsProfile.csv - sessions id, song name, expert1 annotation for the student being on the rhythm (yes/no), expert2, expert3, expert4, expert5, expert6
+
 ## Citation
 Please cite these papers in your publications if it helps your research 
 
